@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abbaseid
 - 👀 I’m interested in NextJS
 - 🌱 I’m currently learning Firebase
-- 💞️ I’m looking to collaborate on localozation of Arabic language
+- 💞️ I’m looking to collaborate on localization of Arabic language
 - 📫 You can reach me on abbas.reg@gmail.com
 
 <!---
