@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abbaseid
+- 👋 Hi, I’m @abbasaleid
 - 👀 I’m interested in Ruby on Rails
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on localization of Arabic language
