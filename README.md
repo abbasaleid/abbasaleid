@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abbaseid
-- 👀 I’m interested in NextJS
+- 👀 I’m interested in Ruby on Rails
 - 🌱 I’m currently learning Firebase
 - 💞️ I’m looking to collaborate on localization of Arabic language
 - 📫 You can reach me on abbas.reg@gmail.com
